@@ -17,6 +17,7 @@
 
 </p>
 
+<p>
 <h2>활동 및 경력</h2>
 <ul style="list-style: none; padding: 0;">
     <li>AICOSS 산학연계 해커톤(2024.08-2024.08)</li>
@@ -24,7 +25,9 @@
     <li><a href="https://github.com/kiseongpark/VTS_calibration">경북대학교 임베디드 시스템 플랫폼 연구실(Acelab) 학부연구생_무인 발렛파킹 시스템_차량측위기술 연구 및 구현(VTS)(2024.12-2025.12)</a></li>
     <li><a href="https://github.com/kiseongpark/Capstone_Design-Growth_journal_with_raspberry-Pi5">캡스톤디자인(전자공학종합설계1,2)(2025.03-2025.12)</a></li>
 </ul>
+</p>
 
+<p>
 <h3>수상 내역</h3>
 <ul style="list-style: none; padding: 0;">
     <li>AICOSS 산학연계 해커톤 장려상(2024.08.23)</li>
@@ -33,5 +36,5 @@
     <li>2025 2학기 산학 연계 프로젝트 경진대회 장려상(2025.12.22)</li>
     <li>KNU 캡스톤 디자인 성과 포럼 우수상(2026.01.28)</li>
 </ul>
-
+</p>
 
