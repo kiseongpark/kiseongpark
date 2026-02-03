@@ -38,3 +38,10 @@
 </ul>
 </p>
 
+<p>
+<h2>수료</h2>
+    <ul style="list-style: none; padding: 0;">
+    <li>2024 KNU START_UP CAMP 'ILMEC'(2024.11.16-2024.11.17)</li>
+    <li>첨단분야 혁신융합대학 CO-Week Academy(2025.06.30-2025.07.04)</li>
+</ul>
+</p>
