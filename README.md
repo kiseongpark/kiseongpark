@@ -45,3 +45,11 @@
     <li>첨단분야 혁신융합대학 CO-Week Academy(2025.06.30-2025.07.04)</li>
 </ul>
 </p>
+
+<p>
+<h2>자격증</h2>
+    <ul style="list-style: none; padding: 0;">
+    <li> ADSP </li>
+</ul>
+</p>
+
