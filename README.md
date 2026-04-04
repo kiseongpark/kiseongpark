@@ -50,6 +50,7 @@
 <h2>자격증</h2>
     <ul style="list-style: none; padding: 0;">
     <li> ADSP </li>
+    <li> SQLD </li>
 </ul>
 </p>
 
