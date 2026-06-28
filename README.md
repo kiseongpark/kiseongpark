@@ -30,11 +30,14 @@
 
 <img width="100" height="200" alt="KakaoTalk_20250412_221753417 (2)" src="https://github.com/user-attachments/assets/2babd99b-42f0-4a32-b7d2-34a1f9bd7758" />
 
-과정 :
-1. 차량 조립 및 개발 환경 세팅
-2. 모형차를 조종하며 학습 데이터 획득
-3. Colab에서 데이터 학습
-4. 데이터 적용하여 자율 주행
+## Development Process
+
+| Step | Description |
+|------|-------------|
+| 🔧 **Step 1** | Vehicle Assembly & Development Environment Setup |
+| 🎮 **Step 2** | Collect Driving Data by Operating the Model Car |
+| 🧠 **Step 3** | Train the Model using Google Colab |
+| 🤖 **Step 4** | Deploy the Trained Model for Autonomous Driving |
 
 </details>
     <li><a href="https://github.com/kiseongpark/VTS_calibration">경북대학교 임베디드 시스템 플랫폼 연구실(Acelab) 학부연구생_무인 발렛파킹 시스템_차량측위기술 연구 및 구현(VTS)(2024.12-2025.12)</a></li>
