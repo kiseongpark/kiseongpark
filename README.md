@@ -28,7 +28,7 @@
 
 ### 딥러닝 자율주행 자동차 제작 및 구현
 
-<img width="400" height="711" alt="KakaoTalk_20250412_221753417 (2)" src="https://github.com/user-attachments/assets/2babd99b-42f0-4a32-b7d2-34a1f9bd7758" />
+<img width="100" height="200" alt="KakaoTalk_20250412_221753417 (2)" src="https://github.com/user-attachments/assets/2babd99b-42f0-4a32-b7d2-34a1f9bd7758" />
 
 과정 :
 1. 차량 조립 및 개발 환경 세팅
