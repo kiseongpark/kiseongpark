@@ -24,15 +24,17 @@
     <li><a href="https://github.com/kiseongpark/AICOSS_Industry-Academia_Hackathon_240823">AICOSS 산학연계 해커톤(2024.08-2024.08)</li>
     <li>GNB 동아리(코딩동아리)(2024.09-2025.02)</li>
     <details>
-<summary>🚗 프로젝트 소개 (클릭하여 펼치기)</summary>
+<summary>🚗 프로젝트 간략 소개</summary>
 
-### 프로젝트 개요
+### 딥러닝 자율주행 자동차 제작 및 구현
 
-천장 카메라 기반의 AI 관제 자율주행 시스템입니다.
+<img width="400" height="711" alt="KakaoTalk_20250412_221753417 (2)" src="https://github.com/user-attachments/assets/2babd99b-42f0-4a32-b7d2-34a1f9bd7758" />
 
-- 📅 개발기간 : 2024.12 ~ 2025.12
-- 🏆 역할 : 객체 인식 및 차량 제어
-- 🛠 기술 : ROS2, PCL, CARLA, Unity
+과정 :
+1. 차량 조립 및 개발 환경 세팅
+2. 모형차를 조종하며 학습 데이터 획득
+3. Colab에서 데이터 학습
+4. 데이터 적용하여 자율 주행
 
 </details>
     <li><a href="https://github.com/kiseongpark/VTS_calibration">경북대학교 임베디드 시스템 플랫폼 연구실(Acelab) 학부연구생_무인 발렛파킹 시스템_차량측위기술 연구 및 구현(VTS)(2024.12-2025.12)</a></li>
