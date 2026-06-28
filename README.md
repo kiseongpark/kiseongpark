@@ -24,7 +24,7 @@
     <li><a href="https://github.com/kiseongpark/AICOSS_Industry-Academia_Hackathon_240823">AICOSS 산학연계 해커톤(2024.08-2024.08)</li>
     <li>GNB 동아리(코딩동아리)(2024.09-2025.02)</li>
     <details>
-<summary>🚗 프로젝트 소개</summary>
+<summary>🚗 자율주행 프로젝트 소개</summary>
 
 ### 딥러닝 자율주행 자동차 제작 및 구현
 
