@@ -23,6 +23,18 @@
 <ul style="list-style: none; padding: 0;">
     <li><a href="https://github.com/kiseongpark/AICOSS_Industry-Academia_Hackathon_240823">AICOSS 산학연계 해커톤(2024.08-2024.08)</li>
     <li>GNB 동아리(코딩동아리)(2024.09-2025.02)</li>
+    <details>
+<summary>🚗 프로젝트 소개 (클릭하여 펼치기)</summary>
+
+### 프로젝트 개요
+
+천장 카메라 기반의 AI 관제 자율주행 시스템입니다.
+
+- 📅 개발기간 : 2024.12 ~ 2025.12
+- 🏆 역할 : 객체 인식 및 차량 제어
+- 🛠 기술 : ROS2, PCL, CARLA, Unity
+
+</details>
     <li><a href="https://github.com/kiseongpark/VTS_calibration">경북대학교 임베디드 시스템 플랫폼 연구실(Acelab) 학부연구생_무인 발렛파킹 시스템_차량측위기술 연구 및 구현(VTS)(2024.12-2025.12)</a></li>
     <li><a href="https://github.com/kiseongpark/Capstone_Design-Growth_journal_with_raspberry-Pi5">캡스톤디자인(전자공학종합설계1,2)(2025.03-2025.12)</a></li>
 </ul>
