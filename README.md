@@ -25,6 +25,7 @@
     <li>GNB 동아리(코딩동아리)(2024.09-2025.02)</li>
     <details>
 <summary>🚗 프로젝트 간략 소개</summary>
+
 ### 딥러닝 자율주행 자동차 제작 및 구현
 
 <img width="100" height="200" alt="KakaoTalk_20250412_221753417 (2)" src="https://github.com/user-attachments/assets/2babd99b-42f0-4a32-b7d2-34a1f9bd7758" />
