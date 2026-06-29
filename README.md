@@ -40,7 +40,7 @@
 | 🤖 **Step 4** | Deploy the Trained Model for Autonomous Driving |
 </details>
     <li><a href="https://github.com/kiseongpark/VTS_calibration">경북대학교 임베디드 시스템 플랫폼 연구실(Acelab) 학부연구생_무인 발렛파킹 시스템_차량측위기술 연구 및 구현(VTS)(2024.12-2025.12)</a></li>
-    <li><a href="https://github.com/kiseongpark/Capstone_Design-Growth_journal_with_raspberry-Pi5">캡스톤디자인(전자공학종합설계1,2)(2025.03-2025.12)</a></li>
+    <li><a href="https://github.com/kiseongpark/Capstone_design_final">캡스톤디자인(전자공학종합설계1,2)(2025.03-2025.12)</a></li>
 </ul>
 </p>
 
