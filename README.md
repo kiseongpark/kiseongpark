@@ -41,6 +41,7 @@
 </details>
     <li><a href="https://github.com/kiseongpark/VTS_calibration">경북대학교 임베디드 시스템 플랫폼 연구실(Acelab) 학부연구생_무인 발렛파킹 시스템_차량측위기술 연구 및 구현(VTS)(2024.12-2025.12)</a></li>
     <li><a href="https://github.com/kiseongpark/Capstone_design_final">캡스톤디자인(전자공학종합설계1,2)_AI 표정 인식 기반 스마트 반려 화분 제작(2025.03-2025.12)</a></li>
+    <li>POSCO DX 포항자동화사업실 근무(2026-07~)</li>
 </ul>
 </p>
 
